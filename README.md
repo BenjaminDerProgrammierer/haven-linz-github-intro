@@ -3,6 +3,7 @@ Hello, my beautiful world!
 The participants are:
 
 * Benji
+* Consti
 
 
 # Illustration of the game concept
