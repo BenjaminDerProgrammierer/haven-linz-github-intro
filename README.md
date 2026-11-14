@@ -4,3 +4,4 @@ The participants are:
 
 * Benji
 * Bernhard
+* Consti
